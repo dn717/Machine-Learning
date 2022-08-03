@@ -1,5 +1,5 @@
 # Machine-Learning 
-Some Machine Learning common algorithms
+Some Machine Learning common algorithms which are realized without any advanced libraries.
 
 ## Comparison of Performances of Multiple Classifiers for Salary Prediction based on Profile Information
 Implemented in  `Comparison of Multiple Classifiers for Salary Prediction.py ` file.
